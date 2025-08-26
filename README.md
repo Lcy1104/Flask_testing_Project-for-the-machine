@@ -1,6 +1,8 @@
 # Flask_testing_Project-for-the-machine
 A small-scale project involving a detection machine designed to establish a connection between the machine and a computer, both operating on the same network, to enable the sharing of detection data and its subsequent storage in a centralized database.
 
+**未经授权，禁止使用。用之前请先star以及fork，未经授权，请勿随意使用！！**
+
 ## Here are some details about the Project in Chinese.
 
 ### 1.务必保证你的检测仪和你的电脑等接收设备在一个局域网内
